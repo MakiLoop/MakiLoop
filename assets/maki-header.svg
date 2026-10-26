@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
   <title id="title">Maki — @makiloop. S L S L ——. Stop Looking, Start Learning.</title>
-  <desc id="desc">Original Maki logo with a three-line typewriter slogan. The text repeats every ten seconds.</desc>
+  <desc id="desc">Original Maki logo with a three-line typewriter slogan. Complete text stays visible for about six seconds; the animation repeats every fourteen seconds.</desc>
   <defs>
     <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFEFB"/><stop offset="1" stop-color="#FCF8F0"/></linearGradient>
     <radialGradient id="glow"><stop stop-color="#EFA13D" stop-opacity=".10"/><stop offset="1" stop-color="#EFA13D" stop-opacity="0"/></radialGradient>
@@ -19,37 +19,37 @@
     <path d="M657 97v186" stroke="#E8DDD0"/><circle cx="657" cy="190" r="3" fill="#DA861F"/>
     <g transform="translate(726.00 128)">
       <defs><clipPath id="reveal-0"><rect x="-1" y="-18" width="95.425" height="30">
-        <animate attributeName="width" dur="10s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0400;0.0490;0.0580;0.0670;0.0760;0.0850;0.0940;0.1030;0.1120;0.1210;0.1300;0.8200;0.8270;0.8340;0.8410;0.8480;0.8550;0.8620;0.8690;0.8760;0.8830;0.8900;1.0000" values="0.00;0.00;8.50;14.09;22.82;28.41;38.11;43.70;52.43;58.02;75.22;92.42;92.42;75.22;58.02;52.43;43.70;38.11;28.41;22.82;14.09;8.50;0.00;0.00" />
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.028571;0.035000;0.041429;0.047857;0.054286;0.060714;0.067143;0.073571;0.080000;0.086429;0.092857;0.871429;0.876429;0.881429;0.886429;0.891429;0.896429;0.901429;0.906429;0.911429;0.916429;0.921429;1.000000" values="0.00;0.00;8.50;14.09;22.82;28.41;38.11;43.70;52.43;58.02;75.22;92.42;92.42;75.22;58.02;52.43;43.70;38.11;28.41;22.82;14.09;8.50;0.00;0.00" />
       </rect></clipPath></defs>
       <text clip-path="url(#reveal-0)" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="400" letter-spacing="1.2" fill="#948878" xml:space="preserve">S L S L ——</text>
       <g opacity="0">
-        <animate attributeName="opacity" dur="10s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.04;0.155;1" values="0;1;0;0" />
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.028571;0.110714;1" values="0;1;0;0" />
         <rect x="96.42" y="-13" width="2" height="19" rx="1" fill="#DA861F">
-          <animate attributeName="x" dur="10s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0400;0.0490;0.0580;0.0670;0.0760;0.0850;0.0940;0.1030;0.1120;0.1210;0.1300;0.8200;0.8270;0.8340;0.8410;0.8480;0.8550;0.8620;0.8690;0.8760;0.8830;0.8900;1.0000" values="4.00;4.00;12.50;18.09;26.82;32.41;42.11;47.70;56.43;62.02;79.22;96.42;96.42;79.22;62.02;56.43;47.70;42.11;32.41;26.82;18.09;12.50;4.00;4.00" />
+          <animate attributeName="x" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.028571;0.035000;0.041429;0.047857;0.054286;0.060714;0.067143;0.073571;0.080000;0.086429;0.092857;0.871429;0.876429;0.881429;0.886429;0.891429;0.896429;0.901429;0.906429;0.911429;0.916429;0.921429;1.000000" values="4.00;4.00;12.50;18.09;26.82;32.41;42.11;47.70;56.43;62.02;79.22;96.42;96.42;79.22;62.02;56.43;47.70;42.11;32.41;26.82;18.09;12.50;4.00;4.00" />
           <animate attributeName="opacity" dur="0.85s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5;1" values="1;0;1" />
         </rect>
       </g>
     </g><g transform="translate(726.00 190)">
       <defs><clipPath id="reveal-1"><rect x="-1" y="-38" width="220.4375" height="50">
-        <animate attributeName="width" dur="10s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1800;0.1923;0.2046;0.2169;0.2292;0.2415;0.2538;0.2662;0.2785;0.2908;0.3031;0.3154;0.3277;0.3400;0.8200;0.8254;0.8308;0.8362;0.8415;0.8469;0.8523;0.8577;0.8631;0.8685;0.8738;0.8792;0.8846;0.8900;1.0000" values="0.00;0.00;19.12;30.17;51.27;72.44;82.30;99.25;120.34;141.44;159.33;168.05;188.42;209.62;217.44;217.44;209.62;188.42;168.05;159.33;141.44;120.34;99.25;82.30;72.44;51.27;30.17;19.12;0.00;0.00" />
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.128571;0.137363;0.146154;0.154945;0.163736;0.172527;0.181319;0.190110;0.198901;0.207692;0.216484;0.225275;0.234066;0.242857;0.871429;0.875275;0.879121;0.882967;0.886813;0.890659;0.894505;0.898352;0.902198;0.906044;0.909890;0.913736;0.917582;0.921429;1.000000" values="0.00;0.00;19.12;30.17;51.27;72.44;82.30;99.25;120.34;141.44;159.33;168.05;188.42;209.62;217.44;217.44;209.62;188.42;168.05;159.33;141.44;120.34;99.25;82.30;72.44;51.27;30.17;19.12;0.00;0.00" />
       </rect></clipPath></defs>
       <text clip-path="url(#reveal-1)" font-family="Segoe UI, Arial, sans-serif" font-size="36" font-weight="400" letter-spacing="0" fill="#706A62" xml:space="preserve">Stop Looking,</text>
       <g opacity="0">
-        <animate attributeName="opacity" dur="10s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.18;0.36500000000000005;1" values="0;1;0;0" />
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.128571;0.260714;1" values="0;1;0;0" />
         <rect x="221.44" y="-33" width="2" height="39" rx="1" fill="#DA861F">
-          <animate attributeName="x" dur="10s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1800;0.1923;0.2046;0.2169;0.2292;0.2415;0.2538;0.2662;0.2785;0.2908;0.3031;0.3154;0.3277;0.3400;0.8200;0.8254;0.8308;0.8362;0.8415;0.8469;0.8523;0.8577;0.8631;0.8685;0.8738;0.8792;0.8846;0.8900;1.0000" values="4.00;4.00;23.12;34.17;55.27;76.44;86.30;103.25;124.34;145.44;163.33;172.05;192.42;213.62;221.44;221.44;213.62;192.42;172.05;163.33;145.44;124.34;103.25;86.30;76.44;55.27;34.17;23.12;4.00;4.00" />
+          <animate attributeName="x" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.128571;0.137363;0.146154;0.154945;0.163736;0.172527;0.181319;0.190110;0.198901;0.207692;0.216484;0.225275;0.234066;0.242857;0.871429;0.875275;0.879121;0.882967;0.886813;0.890659;0.894505;0.898352;0.902198;0.906044;0.909890;0.913736;0.917582;0.921429;1.000000" values="4.00;4.00;23.12;34.17;55.27;76.44;86.30;103.25;124.34;145.44;163.33;172.05;192.42;213.62;221.44;221.44;213.62;192.42;172.05;163.33;145.44;124.34;103.25;86.30;76.44;55.27;34.17;23.12;4.00;4.00" />
           <animate attributeName="opacity" dur="0.85s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5;1" values="1;0;1" />
         </rect>
       </g>
     </g><g transform="translate(726.00 246)">
       <defs><clipPath id="reveal-2"><rect x="-1" y="-42" width="280.25" height="54">
-        <animate attributeName="width" dur="10s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3900;0.4027;0.4153;0.4280;0.4407;0.4533;0.4660;0.4787;0.4913;0.5040;0.5167;0.5293;0.5420;0.5547;0.5673;0.5800;0.8200;0.8247;0.8293;0.8340;0.8387;0.8433;0.8480;0.8527;0.8573;0.8620;0.8667;0.8713;0.8760;0.8807;0.8853;0.8900;1.0000" values="0.00;0.00;22.42;36.98;58.52;74.44;91.16;102.19;122.64;144.28;165.81;181.73;206.06;217.44;241.64;266.41;277.25;277.25;266.41;241.64;217.44;206.06;181.73;165.81;144.28;122.64;102.19;91.16;74.44;58.52;36.98;22.42;0.00;0.00" />
+        <animate attributeName="width" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.278571;0.287619;0.296667;0.305714;0.314762;0.323810;0.332857;0.341905;0.350952;0.360000;0.369048;0.378095;0.387143;0.396190;0.405238;0.414286;0.871429;0.874762;0.878095;0.881429;0.884762;0.888095;0.891429;0.894762;0.898095;0.901429;0.904762;0.908095;0.911429;0.914762;0.918095;0.921429;1.000000" values="0.00;0.00;22.42;36.98;58.52;74.44;91.16;102.19;122.64;144.28;165.81;181.73;206.06;217.44;241.64;266.41;277.25;277.25;266.41;241.64;217.44;206.06;181.73;165.81;144.28;122.64;102.19;91.16;74.44;58.52;36.98;22.42;0.00;0.00" />
       </rect></clipPath></defs>
       <text clip-path="url(#reveal-2)" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" letter-spacing="0" fill="#302D29" xml:space="preserve">Start <tspan fill="#DA861F">Learning.</tspan></text>
       <g opacity="0">
-        <animate attributeName="opacity" dur="10s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.39;0.89;1" values="0;1;0;0" />
+        <animate attributeName="opacity" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.278571;0.921429;1" values="0;1;0;0" />
         <rect x="281.25" y="-37" width="2" height="43" rx="1" fill="#DA861F">
-          <animate attributeName="x" dur="10s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3900;0.4027;0.4153;0.4280;0.4407;0.4533;0.4660;0.4787;0.4913;0.5040;0.5167;0.5293;0.5420;0.5547;0.5673;0.5800;0.8200;0.8247;0.8293;0.8340;0.8387;0.8433;0.8480;0.8527;0.8573;0.8620;0.8667;0.8713;0.8760;0.8807;0.8853;0.8900;1.0000" values="4.00;4.00;26.42;40.98;62.52;78.44;95.16;106.19;126.64;148.28;169.81;185.73;210.06;221.44;245.64;270.41;281.25;281.25;270.41;245.64;221.44;210.06;185.73;169.81;148.28;126.64;106.19;95.16;78.44;62.52;40.98;26.42;4.00;4.00" />
+          <animate attributeName="x" dur="14s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.000000;0.278571;0.287619;0.296667;0.305714;0.314762;0.323810;0.332857;0.341905;0.350952;0.360000;0.369048;0.378095;0.387143;0.396190;0.405238;0.414286;0.871429;0.874762;0.878095;0.881429;0.884762;0.888095;0.891429;0.894762;0.898095;0.901429;0.904762;0.908095;0.911429;0.914762;0.918095;0.921429;1.000000" values="4.00;4.00;26.42;40.98;62.52;78.44;95.16;106.19;126.64;148.28;169.81;185.73;210.06;221.44;245.64;270.41;281.25;281.25;270.41;245.64;221.44;210.06;185.73;169.81;148.28;126.64;106.19;95.16;78.44;62.52;40.98;26.42;4.00;4.00" />
           <animate attributeName="opacity" dur="0.85s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5;1" values="1;0;1" />
         </rect>
       </g>
