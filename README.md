@@ -1,5 +1,4 @@
-<img src="./assets/maki-github-banner.png" alt="Maki — @makiloop" width="100%" />
-
-<p align="center">
-  <img src="./assets/maki-slogan.svg" alt="S L S L —— / Stop Looking, / Start Learning." width="600" />
-</p>
+<picture>
+  <source media="(max-width: 640px)" srcset="./assets/maki-header-mobile.svg" />
+  <img src="./assets/maki-header.svg" alt="Maki — @makiloop. S L S L —— / Stop Looking, / Start Learning." width="100%" />
+</picture>
